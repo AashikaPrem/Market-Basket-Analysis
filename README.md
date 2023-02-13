@@ -18,7 +18,7 @@ Below is the code for the market basket analysis performed:
 ## Code
 **Setting home directory**
 ```rscript
-setwd("C:/Users/aashi/Downloads/uWindsor/Sem 3/Intro to Data Analytics - Brent/Assignment3")
+setwd("C:/Users/aashi/Downloads")
 getwd()
 ```
 **Importing libraries**

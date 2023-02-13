@@ -88,6 +88,17 @@ plot(topsupport[1:20], method="grouped matrix")
 plot(topconfident, jitter = 0) plot(topconfident[1:20], method="graph") plot(topconfident[1:20], method="matrix") plot(topconfident[1:20], method="paracoord") plot(topconfident[1:20], method="scatterplot")
 plot(topconfident[1:20], method="grouped matrix")
 ```
+## Output
+![WhatsApp Image 2023-02-13 at 12 55 21 PM](https://user-images.githubusercontent.com/85166438/218536953-87b36ecd-c691-44d3-8cf8-2aefc381aa22.jpeg)
+![WhatsApp Image 2023-02-13 at 12 55 39 PM](https://user-images.githubusercontent.com/85166438/218536976-524b400a-6110-4b12-9675-de86eade88d2.jpeg)
+![WhatsApp Image 2023-02-13 at 12 56 03 PM](https://user-images.githubusercontent.com/85166438/218536983-a4024f8a-f429-4347-ac7e-5711215eb92d.jpeg)
+![WhatsApp Image 2023-02-13 at 12 44 51 PM](https://user-images.githubusercontent.com/85166438/218537300-6184d73c-c8c5-4b28-912f-50c1e2319dda.jpeg)
+![WhatsApp Image 2023-02-13 at 12 57 08 PM](https://user-images.githubusercontent.com/85166438/218536992-85bd1ddf-f04d-49d1-9fba-11ffbfe7065a.jpeg)
+![WhatsApp Image 2023-02-13 at 12 57 28 PM](https://user-images.githubusercontent.com/85166438/218537011-fdb51373-1752-407d-ac6a-ddccb0a790e0.jpeg)
+![WhatsApp Image 2023-02-13 at 12 57 49 PM](https://user-images.githubusercontent.com/85166438/218537023-4bc107d8-c3b3-485e-a624-50cd116c7c37.jpeg)
+![WhatsApp Image 2023-02-13 at 12 58 14 PM](https://user-images.githubusercontent.com/85166438/218537031-6a750bc5-2e78-4a36-b55c-be1ff216c670.jpeg)
+![WhatsApp Image 2023-02-13 at 12 59 00 PM](https://user-images.githubusercontent.com/85166438/218537043-07d6ea72-2022-44fe-b436-2bd4e4c649b9.jpeg)
+![WhatsApp Image 2023-02-13 at 12 59 52 PM](https://user-images.githubusercontent.com/85166438/218537054-0399f6a1-1bc9-4a7f-a5d5-d58e442e84a2.jpeg)
 
 ## Conclusion
 

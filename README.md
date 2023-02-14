@@ -106,4 +106,4 @@ By analyzing the data with consideration to both Support and Confidence, it was 
 
 ## Recommendations
 
-To potentially increase sales, profits, and revenue, it is recommended that the grocery store group frequently purchased items together in close proximity to each other. Based on the Apriori algorithm model, placing whole milk alongside vegetables, rolls/buns, and soda could lead to increased sales. Furthermore, according to the high confidence model, placing whole milk next to sausages, yogurts, rolls/buns, and semi-finished bread could result in a higher profit margin and increased revenue.
+To potentially increase sales, profits, and revenue, it is recommended that the grocery store group frequently purchased items together in close proximity to each other. Based on the analysis, placing whole milk alongside vegetables, rolls/buns, and soda could lead to increased sales. Furthermore, according to the high confidence model, placing whole milk next to sausages, yogurts, rolls/buns, and semi-finished bread could result in a higher profit margin and increased revenue.

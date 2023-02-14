@@ -100,6 +100,6 @@ plot(topconfident[1:20], method="grouped matrix")
 ![WhatsApp Image 2023-02-13 at 12 59 00 PM](https://user-images.githubusercontent.com/85166438/218537043-07d6ea72-2022-44fe-b436-2bd4e4c649b9.jpeg)
 ![WhatsApp Image 2023-02-13 at 12 59 52 PM](https://user-images.githubusercontent.com/85166438/218537054-0399f6a1-1bc9-4a7f-a5d5-d58e442e84a2.jpeg)
 
-## Conclusion
+## Insights
 
 By analyzing the data with consideration to both Support and Confidence, it was possible to gain valuable insights into the relationships among various items, and we were able to pinpoint multiple itemsets that are frequently sold together. Our examination revealed that in the itemset with high support, combinations such as Whole milk, other vegetables, rolls/buns, and soda were commonly purchased. Similarly, in the itemset with high confidence, Whole milk was typically sold together with items such as sausages, yogurts, rolls/buns, and semi-finished bread.
